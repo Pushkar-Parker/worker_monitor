@@ -213,11 +213,10 @@ def main(model_path:str,
     cap.release()
     cv2.destroyAllWindows()
 
-# Defining function path parameters
-model = r"D:\worker_tracking\save\experiment_7\weights\best.pt"
-video = r"D:\worker_tracking\videos\sample_video.mp4"
-csv_path = r'D:\worker_tracking\csv'
-
+# function path parameters requested to user
+model = input("Enter model path: ")
+video = input("Enter video path: ")
+csv_path = input("Enter path for logger file: ")
 
 # running function
 main(model, video, csv_path)
