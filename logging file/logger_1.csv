@@ -1,0 +1,26 @@
+S.No.,Timestamp,Detections,Working stations,Idle stations,Station 1,Station 2,Station 3,Station 4,Station 5,Station 6
+1,2025-04-19 19:44:12.050376,6,3,3,Idle,Working,Working,Idle,Idle,Working
+2,2025-04-19 19:44:14.799099,6,3,3,Idle,Working,Working,Idle,Idle,Working
+3,2025-04-19 19:44:17.388098,5,3,2,Idle,Working,Working,Idle,Idle,Working
+4,2025-04-19 19:44:20.024051,6,3,3,Idle,Working,Working,Idle,Idle,Working
+5,2025-04-19 19:44:22.628148,6,3,3,Idle,Working,Working,Idle,Idle,Working
+6,2025-04-19 19:44:25.172136,6,3,3,Idle,Working,Working,Idle,Idle,Working
+7,2025-04-19 19:44:27.776558,6,3,3,Idle,Working,Working,Idle,Idle,Working
+8,2025-04-19 19:44:30.416135,6,3,3,Idle,Working,Working,Idle,Idle,Working
+9,2025-04-19 19:44:33.003392,6,3,3,Idle,Working,Working,Idle,Idle,Working
+10,2025-04-19 19:44:35.590579,6,3,3,Idle,Working,Working,Idle,Idle,Working
+11,2025-04-19 19:44:38.163683,6,3,3,Idle,Working,Working,Idle,Idle,Working
+12,2025-04-19 19:44:40.751007,6,3,3,Idle,Working,Working,Idle,Idle,Working
+13,2025-04-19 19:44:43.341644,6,3,3,Idle,Working,Working,Idle,Idle,Working
+14,2025-04-19 19:44:45.948964,6,3,3,Idle,Working,Working,Idle,Idle,Working
+15,2025-04-19 19:44:48.572980,5,3,2,Idle,Working,Working,Idle,Idle,Working
+16,2025-04-19 19:44:51.169822,6,3,3,Idle,Working,Working,Idle,Idle,Working
+17,2025-04-19 19:44:53.703851,6,3,3,Idle,Working,Working,Idle,Idle,Working
+18,2025-04-19 19:44:56.318889,6,3,3,Idle,Working,Working,Idle,Idle,Working
+19,2025-04-19 19:44:58.898114,6,3,3,Idle,Working,Working,Idle,Idle,Working
+20,2025-04-19 19:45:01.541440,6,3,3,Idle,Working,Working,Idle,Idle,Working
+21,2025-04-19 19:45:04.139831,6,3,3,Idle,Working,Working,Idle,Idle,Working
+22,2025-04-19 19:45:06.789738,6,3,3,Idle,Working,Working,Idle,Idle,Working
+23,2025-04-19 19:45:09.438944,5,2,3,Idle,Working,Idle,Idle,Idle,Working
+24,2025-04-19 19:45:12.082312,6,3,3,Idle,Working,Working,Idle,Idle,Working
+25,2025-04-19 19:45:14.677763,6,3,3,Idle,Working,Working,Idle,Idle,Working
