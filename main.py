@@ -214,9 +214,9 @@ def main(model_path:str,
     cv2.destroyAllWindows()
 
 # function path parameters requested to user
-model = input("Enter model path: ")
-video = input("Enter video path: ")
-csv_path = input("Enter path for logger file: ")
+model = "path/to/model.pt" # Enter model path
+video = "path/to/video.mp4" # Enter video path
+csv_path = "path/to/csv_folder" # Enter path to save csv file
 
 # running function
 main(model, video, csv_path)
